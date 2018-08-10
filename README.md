@@ -34,9 +34,7 @@ detection of small magnitude events and accuracy of arrival time picking.
 
 ![This figure illustrates the process of adding noise to the synthetic seismogram](Fig1.png) 
 a) Two-minute vertical component re-cording of microseismic events induced by wastewater injection in central Arkansas. Events are re-corded by a broadband sensor, station CH2 at35.3341N,−92.2982W, at the surface in 2011.Hypocentral distances range between 1.7 and2.5 km and event size ranges between−0.5and0.38Mw. (b) Histogram of the stacked functionCF. The smoothed function used for the Gaussianfit is shown by the green line. The optimal scalevalue for separating long-period and high-fre-quency coefficients selected by Otsu’s methodis  shown  with  the  horizontal  magenta  line.(c) The continuous wavelet scalogram of data.(d) The scalogram of the low-frequency segment.(e) The scalogram of the high-frequency segmentand presignal noise section. (f) The function DF(equation15) showing the cumulative energy dis-tribution. Black lines define the arrival of high-en-ergy signals.Microseismic denoising and detectionV345Downloaded 06/27/16 to 141.225.156.224. Redistribution subject to SEG license or copyright; see Terms of Use at http://library.seg.org/
- 
-
-![Results on synthetic seismogram](Fig1.png) 
+  
 (a) Two-minute vertical component recording of microseismic events induced by waste water injection in central Arkansas. Events are recorded by a broadband sensor, station CH2 at 35.3341N, −92.2982W, at the surface in 2011. Hypocentral distances range between 1.7 and 2.5 km and event size ranges between −0.5 and 0.38 Mw. (b) Histogram of the stacked function
 CF. The smoothed function used for the Gaussian fit is shown by the green line. The optimal scale value for separating long-period and high-frequency coefficients selected by Otsu’s method is shown with the horizontal magenta line.
 (c) The continuous wavelet scalogram of data. (d) The scalogram of the low-frequency segment.
