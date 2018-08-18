@@ -1,4 +1,4 @@
-# Denoising_Custom
+# Automatic Microseismic Denoising and Onset Detection
 =======================
 
 This repository contains MATLAB scripts and sample data for applying denoising method presented in:
