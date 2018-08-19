@@ -1,6 +1,4 @@
 # Automatic Microseismic Denoising and Onset Detection
-=======================
-
 This repository contains MATLAB scripts and sample data for applying denoising method presented in:
 
 "Mousavi, S. M., C. A. Langston, and S. P. Horton (2016). Automatic Microseismic Denoising and Onset
