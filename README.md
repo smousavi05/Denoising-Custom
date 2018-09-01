@@ -8,6 +8,8 @@ doi:10.1190/GEO2015-0598.1.
 
 These functions are just for demonstration of the method and you may need to modify codes extensivly to be able to make it works on your dataset.
 
+you need `MATLAB statistics and signal processing toolboxes` to run this code.
+
 ## Paper
 (https://www.researchgate.net/publication/303909320_Automatic_microseismic_denoising_and_onset_detection_using_the_synchrosqueezed_continuous_wavelet_transform)
 
