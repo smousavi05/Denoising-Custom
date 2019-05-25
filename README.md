@@ -1,10 +1,9 @@
 # Automatic Microseismic Denoising and Onset Detection
-----------------------------------------------------------
 This repository contains MATLAB scripts and sample data for applying denoising method presented in: 
 
-`Mousavi, S. M., C. A. Langston, and S. P. Horton (2016). Automatic Microseismic Denoising and Onset
-Detection Using the Synchrosqueezed-Continuous Wavelet Transform. Geophysics, 81(4), V341-V355,
-doi:10.1190/GEO2015-0598.1`
+    Mousavi, S. M., C. A. Langston, and S. P. Horton (2016). 
+    Automatic Microseismic Denoising and Onset Detection Using the Synchrosqueezed-Continuous Wavelet Transform. 
+    Geophysics, 81(4), V341-V355, doi:10.1190/GEO2015-0598.1`
 
 These functions are just for demonstration of the method and you may need to modify codes extensivly to be able to make it works on your dataset.
 
@@ -15,6 +14,8 @@ you need `MATLAB statistics` and `signal processing` toolboxes to run this code.
 
 ## Talk 
 (https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
+
+----------------------------------------------------------
 
 ## Abstract 
 Typical microseismic data recorded by surface arrays are characterized by low signal-to-noise ratios (S/Ns) and highly nonstationary noise that make it difficult to detect small events. Currently, array or crosscorrelation-based approaches are used to enhance the S/N prior to processing. We have developed an alternative approach for S/N improve-ment and simultaneous detection of microseismic events. The proposed method is based on the synchrosqueezed continuous wavelet transform (SS-CWT) and custom thresholding of single-channel data. The SS-CWT allows for the adaptive filtering of time and frequency-varying noise as well as offering an improvement in resolution over the conventional wavelet transform. Simultaneously, the algorithm incorporates a detection procedure that uses the thresholded wavelet coefficients and detects an arrival as a local maxima in a characteristic function. The algorithm was tested using a synthetic signal and field microseismic data, and our results have been compared with conventional denoising and detection methods. This technique can remove a large part of the noise from small-amplitudes signal and detect events as well as estimate onset time.
