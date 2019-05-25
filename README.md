@@ -1,9 +1,22 @@
 # Automatic Microseismic Denoising and Onset Detection
 This repository contains MATLAB scripts and sample data for applying denoising method presented in: 
 
-    Mousavi, S. M., C. A. Langston, and S. P. Horton (2016). 
-    Automatic Microseismic Denoising and Onset Detection Using the Synchrosqueezed-Continuous Wavelet Transform. 
-    Geophysics, 81(4), V341-V355, doi:10.1190/GEO2015-0598.1
+'Mousavi, S. M., C. A. Langston, and S. P. Horton (2016).
+ Automatic Microseismic Denoising and Onset Detection Using the Synchrosqueezed-Continuous Wavelet Transform. 
+ Geophysics, 81(4), V341-V355, doi:10.1190/GEO2015-0598.1'
+
+BibTeX: 
+
+    @article{mousavi2016automatic,
+    title={Automatic microseismic denoising and onset detection using the synchrosqueezed continuous wavelet transform},
+    author={Mousavi, S Mostafa and Langston, Charles A and Horton, Stephen P},
+    journal={Geophysics},
+    volume={81},
+    number={4},
+    pages={V341--V355},
+    year={2016},
+    publisher={Society of Exploration Geophysicists}
+    }
 
 These functions are just for demonstration of the method and you may need to modify codes extensivly to be able to make it works on your dataset.
 
