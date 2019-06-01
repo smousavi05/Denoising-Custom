@@ -5,7 +5,7 @@ This repository contains MATLAB scripts and sample data for applying denoising m
  Automatic Microseismic Denoising and Onset Detection Using the Synchrosqueezed-Continuous Wavelet Transform. 
  Geophysics, 81(4), V341-V355, doi:10.1190/GEO2015-0598.1`
 
-------------------------------------------- 
+-------------------------------------------            
 
 BibTeX: 
 
