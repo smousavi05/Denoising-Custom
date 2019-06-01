@@ -20,7 +20,7 @@ BibTeX:
     publisher={Society of Exploration Geophysicists}
     }
     
-------------------------------------------- 
+-------------------------------------------           
 
 These functions are just for demonstration of the method and you may need to modify codes extensivly to be able to make it works on your dataset.
 
