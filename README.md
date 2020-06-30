@@ -1,4 +1,12 @@
 # Automatic Microseismic Denoising and Onset Detection
+
+![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/Denoising-Custom?style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/smousavi05/Denoising-Custom?style=social)
+![GitHub followers](https://img.shields.io/github/followers/smousavi05?style=social)
+![GitHub forks](https://img.shields.io/github/forks/smousavi05/Denoising-Custom?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/Denoising-Custom?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
+
 This repository contains MATLAB scripts and sample data for applying denoising method presented in: 
 
 `Mousavi, S. M., C. A. Langston, and S. P. Horton (2016).
